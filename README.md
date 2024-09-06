@@ -2,6 +2,8 @@
 Este projeto é uma aplicação desktop desenvolvida em Delphi, criada para consumir duas APIs REST desenvolvidas em 
 Delphi: uma para autenticação de usuários e outra para realizar operações CRUD no banco de dados Postgres. 
 A integração entre o cliente desktop e as APIs é feita utilizando bibliotecas modernas para a comunicação HTTP e autenticação JWT.
+O projeto foi desenvolvido utilizando conceitos de herança, o que permitiu a criação de uma arquitetura mais limpa e modular, 
+promovendo o reuso de código e facilitando a manutenção.
 
 ## Tecnologias Utilizadas
 - RESTRequest4Delphi: Biblioteca para realizar requisições HTTP a APIs REST.
